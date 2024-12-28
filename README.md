@@ -1,5 +1,5 @@
-Writes codes for the development of physics at UNAM's Faculty of Science.
-2022 generation.
+Writes codes for the development of Physics at UNAM's Faculty of Science.
+2022 Physics generation.
 
 Would like a trip to Japan.
 
