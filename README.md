@@ -4,3 +4,4 @@ Writes codes for the development of physics at UNAM's Faculty of Science.
 Would like a trip to Japan.
 
 Mail: emilio.moreno@ciencias.unam.mx
+LinedIn: linkedin.com/in/emilio-ml/
