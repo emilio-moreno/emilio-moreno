@@ -4,7 +4,7 @@ Writes codes for the development of Physics at UNAM's Faculty of Science.
 2022年の物理学世代。
 
 Would like a trip to Japan. / 
-日本へ行きたがっている。
+日本に行きたがっている。
 
 Mail / メール: emilio.moreno@ciencias.unam.mx \
 LinedIn: [www.linkedin.com/in/emilio-ml/](linkedin.com/in/emilio-ml/)
