@@ -10,10 +10,10 @@ Mail / メール: emilio.moreno@ciencias.unam.mx \
 LinedIn: [linkedin.com/in/emilio-ml/](www.linkedin.com/in/emilio-ml/)
 
 Recommended pages / オススメ:
-- Optical tweezers data analysis / 光学ピンセットデータ分析[https://github.com/los-hamiltonian-method/OpticalTweezers](OpticalTweezers)
-- Spin coater and thin films / スピンコーター・薄膜: [https://github.com/the-spinors/spincoater](SpinCoater)
-- Electromagnetism and wave simulations / 電磁力学・波動シミュレーション: [https://github.com/emilio-moreno/Simulations](Simulations)
-- Molecular coupling prediction through a GNN / GNNの分子結合予測: [https://github.com/emilio-moreno/ScalarCouplingConstant](ScalarCouplingConstant)
-- Neural networks implementations / ニューラルネットワークの実装: [https://github.com/emilio-moreno/CNN](NeuralNetworks)
-- MiniPys (short Python codes / 短いPythonコード): [https://github.com/emilio-moreno/MiniPys](MiniPys)
-- Vector graphics / ベクターグラフィックス: [https://github.com/emilio-moreno/InkScape](InkScape)
+- Optical tweezers data analysis / 光学ピンセットデータ分析: [OpticalTweezers](https://github.com/los-hamiltonian-method/OpticalTweezers)
+- Spin coater and thin films / スピンコーター・薄膜: [SpinCoater](https://github.com/the-spinors/spincoater)
+- Electromagnetism and wave simulations / 電磁力学・波動シミュレーション: [Simulations](https://github.com/emilio-moreno/Simulations)
+- Molecular coupling prediction through a GNN / GNNの分子結合予測: [ScalarCoupling](https://github.com/emilio-moreno/ScalarCoupling)
+- Neural networks implementations / ニューラルネットワークの実装: [NeuralNetworks](https://github.com/emilio-moreno/CNN)
+- MiniPys (short Python codes / 短いPythonコード): [MiniPys](https://github.com/emilio-moreno/MiniPys)
+- Vector graphics / ベクターグラフィックス: [InkScape](https://github.com/emilio-moreno/InkScape)
