@@ -7,7 +7,7 @@ Would like a trip to Japan. /
 日本に行きたがっている。
 
 Mail / メール: emilio.moreno@ciencias.unam.mx \
-LinedIn: [www.linkedin.com/in/emilio-ml/](linkedin.com/in/emilio-ml/)
+LinedIn: [linkedin.com/in/emilio-ml/](www.linkedin.com/in/emilio-ml/)
 
 Recommended pages / オススメ:
 - Optical tweezers data analysis / 光学ピンセットデータ分析[https://github.com/los-hamiltonian-method/OpticalTweezers](OpticalTweezers)
