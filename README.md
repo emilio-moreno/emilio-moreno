@@ -8,6 +8,7 @@ Mail / メール: emilio.moreno@ciencias.unam.mx \
 LinedIn: [linkedin.com/in/emilio-ml/](www.linkedin.com/in/emilio-ml/)
 
 Recommended pages / オススメ:
+- Laser and Atomic Physics Data and Designs / レーザーと原子物理学のデータとデザイン: [LAFriOC](https://github.com/emilio-moreno/LAFriOC)
 - Optical tweezers data analysis / 光学ピンセットデータ分析: [OpticalTweezers](https://github.com/los-hamiltonian-method/OpticalTweezers)
 - Spin coater and thin films / スピンコーター・薄膜: [SpinCoater](https://github.com/the-spinors/spincoater)
 - Electromagnetism and wave simulations / 電磁力学・波動シミュレーション: [Simulations](https://github.com/emilio-moreno/Simulations)
