@@ -12,6 +12,7 @@ Recommended pages / オススメ:
 - Optical tweezers data analysis / 光学ピンセットデータ分析: [OpticalTweezers](https://github.com/los-hamiltonian-method/OpticalTweezers)
 - Spin coater and thin films / スピンコーター・薄膜: [SpinCoater](https://github.com/the-spinors/spincoater)
 - Electromagnetism and wave simulations / 電磁力学・波動シミュレーション: [Simulations](https://github.com/emilio-moreno/Simulations)
+- Classwork on physics numerical methods / 数値計算法: [Computational physics](https://github.com/emilio-moreno/ComputationalPhysics2025-4)
 - Molecular coupling prediction through a GNN / GNNの分子結合予測: [ScalarCoupling](https://github.com/emilio-moreno/ScalarCoupling)
 - Neural networks implementations / ニューラルネットワークの実装: [NeuralNetworks](https://github.com/emilio-moreno/CNN)
 - MiniPys (short Python codes / 短いPythonコード): [MiniPys](https://github.com/emilio-moreno/MiniPys)
