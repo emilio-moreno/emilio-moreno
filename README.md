@@ -11,6 +11,7 @@ Recommended pages / オススメ:
 - Laser and Atomic Physics Data and Designs / レーザーと原子物理学のデータとデザイン: [LAFriOC](https://github.com/emilio-moreno/LAFriOC)
 - Optical tweezers data analysis / 光学ピンセットデータ分析: [OpticalTweezers](https://github.com/los-hamiltonian-method/OpticalTweezers)
 - Spin coater and thin films / スピンコーター・薄膜: [SpinCoater](https://github.com/the-spinors/spincoater)
+- Quantum Computing / 量子コンピューティング: [QuantumComputing](https://github.com/emilio-moreno/QuantumComputing)
 - Electromagnetism and wave simulations / 電磁力学・波動シミュレーション: [Simulations](https://github.com/emilio-moreno/Simulations)
 - Classwork on physics numerical methods / 数値計算法: [Computational physics](https://github.com/emilio-moreno/ComputationalPhysics2025-4)
 - Molecular coupling prediction through a GNN / GNNの分子結合予測: [ScalarCoupling](https://github.com/emilio-moreno/ScalarCoupling)
